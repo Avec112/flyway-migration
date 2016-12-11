@@ -1,4 +1,4 @@
-### Simple [Flyway](https://flywaydb.org) demo
+# Simple [Flyway](https://flywaydb.org) demo
 
 #### How to run?
 
