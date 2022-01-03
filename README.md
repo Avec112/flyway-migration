@@ -1,5 +1,9 @@
 # Simple [Flyway](https://flywaydb.org) demo
 
+**Version control for your database** \
+Robust schema evolution across all your environments.
+With ease, pleasure, and plain SQL.
+
 #### How to run?
 
 ##### `%> mvn flyway:info`
